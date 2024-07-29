@@ -14,3 +14,7 @@ Repositorio para armazenar renumos sobre Git e GitHub do curso de Versionamento 
 ## Comandos
 
 Usar o comando *rm -rf .git* caso tenha iniciado a branche no lugar errado
+Usar *git restore* para voltar a ultima alteração feita
+Usar *git reset* para remover todas as alterações ou uma expecifica podendo ser *soft, mixed ou hard*
+
+
