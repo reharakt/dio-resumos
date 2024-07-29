@@ -10,3 +10,7 @@ Repositorio para armazenar renumos sobre Git e GitHub do curso de Versionamento 
 
 | Aulas | Resumos |
 | ----- | ------- |
+
+## Comandos
+
+Usar o comando *rm -rf .git* caso tenha iniciado a branche no lugar errado
