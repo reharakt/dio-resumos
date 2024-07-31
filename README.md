@@ -18,4 +18,9 @@ Usar o comando *rm -rf .git* caso tenha iniciado a branche no lugar errado
 Usar *git restore* para voltar a ultima alteração feita
 Usar *git reset* para remover todas as alterações ou uma expecifica podendo ser *soft, mixed ou hard*
 
+para clonar branches separadas usar o comando *--branch* seguido do nome da branch desejada, logo após usar o comando *--single-branch*
+
+Ex: git clone (url do repositorio) --branch (nome da branch) --single-branch
+
+
 
